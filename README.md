@@ -24,7 +24,7 @@ Este repositório contém exercícios de algoritmos que estou realizando para es
    git clone https://github.com/CarlosHOliver/ExerciciosAlgoritmos.git
 2. **Acesse a pasta do repositório**:
    ```bash
-   cd exercicios-algoritmos
+   cd ExerciciosAlgoritmos
 
 3. Escolha o exercício que deseja estudar dentro da pasta / ou execute os scripts de implementação dentro da pasta scripts.
 
