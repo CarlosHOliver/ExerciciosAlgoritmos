@@ -20,7 +20,7 @@ inicio
       leia(n[i])
       soma := soma + n[i]
    fimpara
-   media := soma / i  // Corrigido o cálculo da média (dividindo por 3)
+   media := soma / i  
 
    se media >= 7 entao
       escreval("Sua média foi:",media,". Você foi Aprovado")
